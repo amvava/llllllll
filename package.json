@@ -1,0 +1,12 @@
+{
+  "name": "websocket-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "ws": "^8.13.0"
+  }
+}
